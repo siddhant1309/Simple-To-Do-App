@@ -1,5 +1,5 @@
 # Simple-To-Do-App
-This is the output
+This is the output, it has light and dark mode too
 <p align="center">Adding a new task</p>
 <p align="center">
   <img src="https://github.com/siddhant1309/Simple-To-Do-App/blob/cc1adfd201f37fd344c30a1df3d9be696a93f75e/Screenshot%202023-01-13%20235258.png" width="350" title="hover text">
